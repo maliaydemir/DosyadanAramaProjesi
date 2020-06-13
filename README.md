@@ -18,7 +18,7 @@
 
 -Çakışma durumlarını azaltmak için asal sayıların kuvvetleri kullanılarak hash tablosuna ekleme yapılır.
 
--Asal sayıların kuvvetleri eklenecek kelime uzunluğuna göre belirlenir.
+-Kelime uzunluğuna göre o uzunluktaki kelimelerin başlangıç indisleri bulunur.
 
 -Çakışma durumunda her kelime kendi uzunluğuna bağlı şekilde artım yapılarak ekleme işlemine devam eder.
 
